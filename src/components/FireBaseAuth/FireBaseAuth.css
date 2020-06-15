@@ -1,0 +1,18 @@
+.cont {
+  max-width: 500px;
+  margin: auto;
+  margin-top: 15%;
+  border: 1px solid red;
+  padding: 10px;
+}
+.fireForm {
+  display: flex;
+  flex-direction: column;
+}
+input {
+  margin-bottom: 10px;
+}
+.butt {
+  width: 100%;
+  margin-top: 15px;
+}
